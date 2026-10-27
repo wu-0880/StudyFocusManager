@@ -109,13 +109,21 @@
 
 *圖 3：按下 USER 按鈕後進入 FOCUS 狀態，藍燈恆亮。*
 
-![休息狀態下藍色 LED 呼吸效果的照片](docs/rest.jpg)
+![休息狀態下藍色 LED 亮起的照片](docs/rest.jpg)
 
-*圖 4：完成一輪讀書後進入 BREAK 狀態，藍燈以 PWM 呈現呼吸效果。*
+*圖 4-1：進入 BREAK 狀態，藍色 LED 亮起。*
 
-![達標後黃色 LED 提示的照片](docs/done.jpg)
+![休息狀態下藍色 LED 變暗的照片](docs/rest_off.jpg)
 
-*圖 5：讀書次數達標後進入 DONE 狀態，黃色 LED 閃爍提醒。*
+*圖 4-2：藍色 LED 亮度降低，呈現 PWM 呼吸燈效果。*
+
+![達標後黃色 LED 亮起的照片](docs/done.jpg)
+
+*圖 5-1：進入 DONE 狀態，黃色 LED 亮起。*
+
+![達標後黃色 LED 變暗的照片](docs/done_off.jpg)
+
+*圖 5-2：黃色 LED 變暗，與亮燈狀態交替，呈現達標閃爍效果。*
 
 ## **9. AI 使用說明：哪段請 AI、你怎麼查核**
 
