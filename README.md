@@ -109,11 +109,11 @@
 
 *圖 3：按下 USER 按鈕後進入 FOCUS 狀態，藍燈恆亮。*
 
-![休息狀態下藍色 LED 亮起的照片](docs/rest.jpg)
+![休息狀態下藍色 LED 亮起的照片](docs/rest_off.jpg)
 
 *圖 4-1：進入 BREAK 狀態，藍色 LED 亮起。*
 
-![休息狀態下藍色 LED 變暗的照片](docs/rest_off.jpg)
+![休息狀態下藍色 LED 變暗的照片](docs/rest.jpg)
 
 *圖 4-2：藍色 LED 亮度降低，呈現 PWM 呼吸燈效果。*
 
