@@ -1,0 +1,17 @@
+../Core/Src/main.c:192:5:main	7
+../Core/Src/main.c:359:6:SystemClock_Config	3
+../Core/Src/main.c:406:13:MX_LPUART1_UART_Init	5
+../Core/Src/main.c:453:13:MX_TIM3_Init	7
+../Core/Src/main.c:516:13:MX_TIM6_Init	3
+../Core/Src/main.c:554:13:MX_GPIO_Init	1
+../Core/Src/main.c:588:6:UART_Send	1
+../Core/Src/main.c:607:6:PWM_Set	7
+../Core/Src/main.c:632:6:StartStudy	1
+../Core/Src/main.c:669:6:StartBreak	2
+../Core/Src/main.c:707:6:HandleButton	9
+../Core/Src/main.c:799:6:FSM_Update	6
+../Core/Src/main.c:872:6:LED_Update	6
+../Core/Src/main.c:946:6:HAL_GPIO_EXTI_Callback	4
+../Core/Src/main.c:975:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:990:6:HAL_UART_RxCpltCallback	14
+../Core/Src/main.c:1068:6:Error_Handler	1
